@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "594c797d052b5d96",
+    "type": "split",
+    "children": [
+      {
+        "id": "514cc42a82c968f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "203de6df26dcbdd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2025-07-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14d40d0927870118",
+    "type": "split",
+    "children": [
+      {
+        "id": "677dbbee10c23645",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd1b5e35ba5f284",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "8c270294dc8777f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dispensação do lote na farm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "fec6859fc4175511",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc4d06ebf9f785d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f7ad7c01775358f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b567d7f854831c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "eLearn Philips/Solicitacao de compras.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks para Solicitacao de compras"
+            }
+          },
+          {
+            "id": "cbe65cba7b0ee4ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links externos de Welcome"
+            }
+          },
+          {
+            "id": "7a4094956922dcac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc1b747c552d80ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice de Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false
+    }
+  },
+  "active": "203de6df26dcbdd3",
+  "lastOpenFiles": [
+    "Help/Shortcut.md",
+    "Guias/Tasy/Vivere_ Treinamento Farmácia-20240527_135244-Gravação de Reunião-pt-BR(vtt).md",
+    "Guias/Tasy/Vivere_ Treinamento Farmácia-20240527_135244-Gravação de Reunião-pt-BR.vtt",
+    "Help/Conexão Banco de Dados.md",
+    "Daily Note/2025-07-25.md",
+    "Pasted image 20250725103931.png",
+    "Help/Compilance.md",
+    "Help/Duvidas Assistenciais.md",
+    "Help/Formatacao Obsidian.md",
+    "Help/Transação financeira.md",
+    "Template/_notaDiaria.md",
+    "Template/_eLearnPhilips.md",
+    "Guias/Guia_canal_Compliance.pdf",
+    "Guias/Hoeb/Guia_canal_Compliance.pdf",
+    "Guias/Hoeb",
+    "Guias/Nova pasta",
+    "README.md",
+    "eLearn Philips/Tesouraria.md",
+    "eLearn Philips/Solicitacao de compras.md",
+    "Asset/Pasted image 20250724155855.png",
+    "Trilia/Alta Confiabilidade.md",
+    "Melhorias e Ajustes.md",
+    "Asset/Pasted image 20250724120932.png",
+    "Asset/tasy.png",
+    "Asset/Pasted image 20250723164446.png",
+    "2025-07-23.md",
+    "image.png",
+    "og-image.png.md",
+    "Pasted image 20250723171053.png",
+    "Embed files.md",
+    "Internal link.md",
+    "Template",
+    "Asset/Pasted image 20250723164351.png",
+    "Guias/Sem título.md",
+    "Guias/Tasy",
+    "Guias",
+    "Asset/Pasted image 20250723083854.png",
+    "Daily Note",
+    "Asset/Pasted image 20250721162031.png",
+    "Help"
+  ]
+}
