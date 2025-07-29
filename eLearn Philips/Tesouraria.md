@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Data:  29/07/2025
 Desenvolvido Por: Fabiano Cruz
@@ -7,6 +8,10 @@ Cod.:
 
 >[!Info] Visão Geral
 
+=======
+ 
+Visao Geral 
+>>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
 1. Conceito
 2. Objetivo (Identificar o que a função ajuda a resolver
 3. Macro Fluxo 
@@ -18,9 +23,13 @@ Cod.:
 
 Conceito: função que controla os caixas. 
 
+<<<<<<< HEAD
 
 
 >[!Info] Objetivo
+=======
+Recebimento, pagamento, transferência...
+>>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
 
 Recebimento, pagamento, transferência...
 Possibilita criar regras de contabilização para cada caixa.  
@@ -29,6 +38,7 @@ Possibilita criar regras de contabilização para cada caixa.
 
 ![[Pasted image 20250723164446.png]]
 
+<<<<<<< HEAD
 ![[Pasted image 20250729135615.png]]
 ![[Pasted image 20250723164351.png]]
 
@@ -79,3 +89,6 @@ Todos os campos do Tasy possuem o recurso de “infobutton” como destacado na 
 
 
 ]]
+=======
+![[Pasted image 20250729135615.png]]
+>>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6

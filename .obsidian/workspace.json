@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "README.md",
+=======
+                "file": "eLearn Philips/Tesouraria.md",
+>>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "README"
+=======
+              "title": "Tesouraria"
+>>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
             }
           }
         ]
@@ -169,10 +177,15 @@
       "excel:Create Excel File": false
     }
   },
+<<<<<<< HEAD
   "active": "9c8cea084767584a",
   "lastOpenFiles": [
     "eLearn Philips/Tesouraria.md",
     "eLearn Philips/2025-07-28.md",
+=======
+  "active": "5cd1b5e35ba5f284",
+  "lastOpenFiles": [
+>>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
     "Asset/Pasted image 20250729135615.png",
     "Template/_eLearnPhilips.md",
     "Template/_notaDiaria.md",
@@ -186,9 +199,17 @@
     "Contatos.md",
     "Documentos/Fluxos",
     "Daily Note/2025-07-29.md",
+<<<<<<< HEAD
     "eLearn Philips/Guia_Fechamento_Financeiro.pdf",
     "eLearn Philips/Financeiro.md",
     "eLearn Philips/Solicitacao de compras.md",
+=======
+    "eLearn Philips/2025-07-28.md",
+    "eLearn Philips/Guia_Fechamento_Financeiro.pdf",
+    "eLearn Philips/Financeiro.md",
+    "eLearn Philips/Solicitacao de compras.md",
+    "eLearn Philips/Tesouraria.md",
+>>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
     "Asset/Pasted image 20250721162031.png",
     "Asset/Funcao_Parametros.sheet.md",
     "Excel 2025-07-28 17.17.17.sheet.md",
@@ -215,6 +236,11 @@
     "Asset/Pasted image 20250724155855.png",
     "Asset/Pasted image 20250724120932.png",
     "Asset/Pasted image 20250723164446.png",
+<<<<<<< HEAD
     "image.png"
+=======
+    "image.png",
+    "Pasted image 20250723171053.png"
+>>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
   ]
 }
