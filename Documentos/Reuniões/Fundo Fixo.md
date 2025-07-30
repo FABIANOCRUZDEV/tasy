@@ -1,4 +1,4 @@
-Tag: #Reunião
+	Tag: #Reunião
 
 # 📋 Fluxo de Documentação de Reunião
 
@@ -10,10 +10,18 @@ Este documento descreve um fluxo padronizado para registrar e acompanhar reuniõ
 **Responsável:** Organizador da reunião
 
 **Ações:**
-- Definir pauta e objetivos: Validação de Fluxo do Fundo Fixo. 
+- Definir pauta e objetivos: Validação de Fluxo do Fundo Fixo.
 - Convidar participantes: Fabiano, Karoline, Nadson, Dirlan Rocha
 - Reservar sala ou link de reunião:  https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjNjYzQ5ZDktZjY5Ni00ZjQ1LTk1ZmEtZjIxY2M2NjQ5M2M0%40thread.v2/0?context=%7b%22Tid%22%3a%226dc28345-3048-49c1-beca-d5cad28a8f77%22%2c%22Oid%22%3a%2236f163e7-39a6-46b0-b2b0-542aa01aaca1%22%7d
 - Criar documento base (ex: ata em branco ou template no OneNote/Word)
+
+Parâmetros da Tesouraria Inativos 
+- Transação de Troco: CB - Ajuste de Saldo - Crédito
+- CX/CB - Devolução de Cheque Banco
+- Transação Devol Cheque: CX/CB - Devolução de Cheque Banco
+- Recebimento em Especie: CX - Recebimento em Espécie
+
+
 
 ---
 
@@ -59,3 +67,7 @@ Este documento descreve um fluxo padronizado para registrar e acompanhar reuniõ
 - Encerrar pendências no documento ou sistema
 
 ---
+
+
+
+

@@ -11,22 +11,12 @@
             "id": "9c8cea084767584a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-view",
               "state": {
-<<<<<<< HEAD
-                "file": "README.md",
-=======
-                "file": "eLearn Philips/Tesouraria.md",
->>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
-                "mode": "source",
-                "source": false
+                "file": "Asset/Funcao_Parametros.sheet.md"
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "README"
-=======
-              "title": "Tesouraria"
->>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
+              "title": "Funcao_Parametros.sheet"
             }
           }
         ]
@@ -61,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GIT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +72,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eLearn Philips/Solicitacao de compras.md",
+                "file": "Asset/Funcao_Parametros.sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Solicitacao de compras"
+              "title": "Backlinks para Funcao_Parametros.sheet"
             }
           },
           {
@@ -163,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,19 +167,25 @@
       "excel:Create Excel File": false
     }
   },
-<<<<<<< HEAD
   "active": "9c8cea084767584a",
   "lastOpenFiles": [
+    "Help/Formatacao Obsidian.md",
+    "Documentos/Fluxos/Cadastro de Transações Financeiras ( Regras de Contabilização ).md",
+    "Asset/Pasted image 20250730111940.png",
+    "Documentos/Reuniões/Fundo Fixo.md",
+    "Documentos/Fluxos/Cadastro de Transação Financeira.md",
+    "Sem título.md",
+    "Asset/Pasted image 20250730084928.png",
+    "Asset/Pasted image 20250730084857.png",
+    "Asset/Pasted image 20250730084849.png",
+    "Guias/Criados/CONTABILIDADE.md",
     "eLearn Philips/Tesouraria.md",
+    "Guias/Criados",
+    "README.md",
     "eLearn Philips/2025-07-28.md",
-=======
-  "active": "5cd1b5e35ba5f284",
-  "lastOpenFiles": [
->>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
     "Asset/Pasted image 20250729135615.png",
     "Template/_eLearnPhilips.md",
     "Template/_notaDiaria.md",
-    "Documentos/Reuniões/Fundo Fixo.md",
     "Template/_Reunião.md",
     "Template/Modelo de Documentação de Fluxo.md",
     "Documentos/Fluxos/Ressuprimento.md",
@@ -199,17 +195,9 @@
     "Contatos.md",
     "Documentos/Fluxos",
     "Daily Note/2025-07-29.md",
-<<<<<<< HEAD
     "eLearn Philips/Guia_Fechamento_Financeiro.pdf",
     "eLearn Philips/Financeiro.md",
     "eLearn Philips/Solicitacao de compras.md",
-=======
-    "eLearn Philips/2025-07-28.md",
-    "eLearn Philips/Guia_Fechamento_Financeiro.pdf",
-    "eLearn Philips/Financeiro.md",
-    "eLearn Philips/Solicitacao de compras.md",
-    "eLearn Philips/Tesouraria.md",
->>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
     "Asset/Pasted image 20250721162031.png",
     "Asset/Funcao_Parametros.sheet.md",
     "Excel 2025-07-28 17.17.17.sheet.md",
@@ -219,28 +207,12 @@
     "Asset/Pasted image 20250725160347.png",
     "Pasted image 20250725103931.png",
     "Asset/tasy.png",
-    "Help/Formatacao Obsidian.md",
     "Asset/infobutton.png",
     "eLearn Philips/Sem título 1.md",
     "Daily Note/2025-07-26.md",
     "Help/Shortcut.md",
-    "Guias/Tasy/Vivere_ Treinamento Farmácia-20240527_135244-Gravação de Reunião-pt-BR(vtt).md",
     "Guias/Tasy/Vivere_ Treinamento Farmácia-20240527_135244-Gravação de Reunião-pt-BR.vtt",
-    "Help/Conexão Banco de Dados.md",
-    "Help/Compilance.md",
-    "Help/Duvidas Assistenciais.md",
-    "Help/Transação financeira.md",
     "Guias/Guia_canal_Compliance.pdf",
-    "Guias/Hoeb/Guia_canal_Compliance.pdf",
-    "Guias/Hoeb",
-    "Asset/Pasted image 20250724155855.png",
-    "Asset/Pasted image 20250724120932.png",
-    "Asset/Pasted image 20250723164446.png",
-<<<<<<< HEAD
-    "image.png"
-=======
-    "image.png",
-    "Pasted image 20250723171053.png"
->>>>>>> 6d78f6161677829a6f08d9864680bc9082d090a6
+    "Guias/Hoeb/Guia_canal_Compliance.pdf"
   ]
 }
