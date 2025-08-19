@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "606405674be1c6fd",
+        "id": "394c155a460bcaa8",
         "type": "tabs",
         "children": [
           {
-            "id": "71ec959439d9e8a9",
+            "id": "0b96e814794268dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,8 +169,10 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "71ec959439d9e8a9",
+  "active": "0b96e814794268dc",
   "lastOpenFiles": [
+    "Help/Exemplos/SQL/MOVIMENTACAO PACIENTE.md",
+    "README.md",
     "Guias/Tasy/Vivere_ Treinamento Farmácia-20240527_135244-Gravação de Reunião-pt-BR(vtt).md",
     "Help/Formatacao Obsidian.md",
     "Documentos/Fluxos/Sem título.md",
@@ -188,7 +189,6 @@
     "Contatos.md",
     "Melhorias e Ajustes.md",
     "Asset/Funcao_Parametros.sheet.md",
-    "Help/Exemplos/SQL/MOVIMENTACAO PACIENTE.md",
     "Documentos/Sem título 1.md",
     "Daily Note/2025-08-15.md",
     "Help/Transação financeira.md",
@@ -205,7 +205,6 @@
     "Help/Exemplos",
     "Asset/Pasted image 20250815102053.png",
     "Asset/Pasted image 20250818093457.png",
-    "Daily Note/2025-08-18.md",
     "Asset/Pasted image 20250818093340.png",
     "Pasted image 20250815101829.png",
     "Asset/Pasted image 20250731140548.png",
