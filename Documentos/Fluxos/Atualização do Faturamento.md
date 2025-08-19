@@ -1,0 +1,1 @@
+A tabela sigtap é a unica atualização dentro do Tasy.

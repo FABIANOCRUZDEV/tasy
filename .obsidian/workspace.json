@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8fd8088b298def0b",
+        "id": "606405674be1c6fd",
         "type": "tabs",
         "children": [
           {
-            "id": "9c8cea084767584a",
+            "id": "71ec959439d9e8a9",
             "type": "leaf",
             "state": {
-              "type": "excel-view",
+              "type": "markdown",
               "state": {
-                "file": "Asset/Funcao_Parametros.sheet.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Funcao_Parametros.sheet"
+              "title": "README"
             }
           }
         ]
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asset/Funcao_Parametros.sheet.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Funcao_Parametros.sheet"
+              "title": "Backlinks para README"
             }
           },
           {
@@ -158,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Abrir Quick Switcher": false,
       "graph:Abrir Visualização de diagrama de grafo": false,
       "canvas:Create new canvas": false,
@@ -167,52 +170,53 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "9c8cea084767584a",
+  "active": "71ec959439d9e8a9",
   "lastOpenFiles": [
+    "Guias/Tasy/Vivere_ Treinamento Farmácia-20240527_135244-Gravação de Reunião-pt-BR(vtt).md",
     "Help/Formatacao Obsidian.md",
-    "Documentos/Fluxos/Cadastro de Transações Financeiras ( Regras de Contabilização ).md",
-    "Asset/Pasted image 20250730111940.png",
-    "Documentos/Reuniões/Fundo Fixo.md",
-    "Documentos/Fluxos/Cadastro de Transação Financeira.md",
-    "Sem título.md",
-    "Asset/Pasted image 20250730084928.png",
-    "Asset/Pasted image 20250730084857.png",
-    "Asset/Pasted image 20250730084849.png",
-    "Guias/Criados/CONTABILIDADE.md",
-    "eLearn Philips/Tesouraria.md",
-    "Guias/Criados",
-    "README.md",
-    "eLearn Philips/2025-07-28.md",
-    "Asset/Pasted image 20250729135615.png",
-    "Template/_eLearnPhilips.md",
-    "Template/_notaDiaria.md",
-    "Template/_Reunião.md",
-    "Template/Modelo de Documentação de Fluxo.md",
+    "Documentos/Fluxos/Sem título.md",
     "Documentos/Fluxos/Ressuprimento.md",
-    "Documentos/Reuniões",
-    "Melhorias e Ajustes.md",
-    "Documentos",
+    "Documentos/Fluxos/Compras.md",
+    "Documentos/Fluxos/Cadastro de Transações Financeiras ( Regras de Contabilização ).md",
+    "Documentos/Fluxos/Cadastro de Transação Financeira.md",
+    "Documentos/Fluxos/Atualização do Faturamento.md",
+    "Documentos/Reuniões/Inventario.md",
+    "Documentos/Reuniões/Fundo Fixo.md",
+    "Documentos/chamado.md",
+    "Documentos/contatos.md",
+    "Documentos/Relatórios.md",
     "Contatos.md",
-    "Documentos/Fluxos",
-    "Daily Note/2025-07-29.md",
-    "eLearn Philips/Guia_Fechamento_Financeiro.pdf",
-    "eLearn Philips/Financeiro.md",
-    "eLearn Philips/Solicitacao de compras.md",
-    "Asset/Pasted image 20250721162031.png",
+    "Melhorias e Ajustes.md",
     "Asset/Funcao_Parametros.sheet.md",
-    "Excel 2025-07-28 17.17.17.sheet.md",
-    "eLearn Philips/Funcao_Parametro.xlsx",
-    "Funcao_Parametro.xlsx",
-    "Daily Note/2025-07-25.md",
-    "Asset/Pasted image 20250725160347.png",
-    "Pasted image 20250725103931.png",
-    "Asset/tasy.png",
-    "Asset/infobutton.png",
-    "eLearn Philips/Sem título 1.md",
-    "Daily Note/2025-07-26.md",
+    "Help/Exemplos/SQL/MOVIMENTACAO PACIENTE.md",
+    "Documentos/Sem título 1.md",
+    "Daily Note/2025-08-15.md",
+    "Help/Transação financeira.md",
     "Help/Shortcut.md",
-    "Guias/Tasy/Vivere_ Treinamento Farmácia-20240527_135244-Gravação de Reunião-pt-BR.vtt",
-    "Guias/Guia_canal_Compliance.pdf",
-    "Guias/Hoeb/Guia_canal_Compliance.pdf"
+    "Help/Duvidas Assistenciais.md",
+    "Help/Conexão Banco de Dados.md",
+    "Help/Compilance.md",
+    "Help/Exemplos/SQL",
+    "Help/Exemplos/Gerenciador de Relatorio/Pasted image 20250819154337.png",
+    "Help/Exemplos/Gerenciador de Relatorio/Gerenciador de Relatorio.md",
+    "Help/Exemplos/Gerenciador de Relatorio",
+    "Pasted image 20250819154324.png",
+    "Pasted image 20250819154314.png",
+    "Help/Exemplos",
+    "Asset/Pasted image 20250815102053.png",
+    "Asset/Pasted image 20250818093457.png",
+    "Daily Note/2025-08-18.md",
+    "Asset/Pasted image 20250818093340.png",
+    "Pasted image 20250815101829.png",
+    "Asset/Pasted image 20250731140548.png",
+    "Asset/Pasted image 20250804090056.png",
+    "Asset/Pasted image 20250730111940.png",
+    "Guias/Criados",
+    "Documentos/Reuniões",
+    "Documentos",
+    "Documentos/Fluxos",
+    "eLearn Philips/Guia_Fechamento_Financeiro.pdf",
+    "eLearn Philips/Funcao_Parametro.xlsx",
+    "Funcao_Parametro.xlsx"
   ]
 }

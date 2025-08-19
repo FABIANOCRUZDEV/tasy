@@ -1,4 +1,4 @@
-
+ 
 Abrir Cadastro de Transações Financeiras, seleciona a transação e vai em Regras de Contabilização. 
 
 ![[Pasted image 20250730111940.png]]
@@ -22,10 +22,10 @@ Inicio \ Final de Vigencia: Caso possua um  periodo especifico para regra.
 
 
 
-Débito/Credito: Selecionar se a transação deve ser debitada ou creditada de acordo com as seleções a seguir. 
-Regra conta: Identificar a regra que deve ser utilizada para obter a conta contábil. 
-Regra centro custo: Identificar a regra que deve ser utilizada para obter o centro de custo. 
-Campo: Informar o atributo que deve ser contabilizado. Para selecionar clicar em enter. 
+Débito/Credito*: Selecionar se a transação deve ser debitada ou creditada de acordo com as seleções a seguir. 
+Regra conta*: Identificar a regra que deve ser utilizada para obter a conta contábil. 
+Regra centro custo*: Identificar a regra que deve ser utilizada para obter o centro de custo. 
+Campo*: Informar o atributo que deve ser contabilizado. Para selecionar clicar em enter. 
 Conta contábil: Selecionar a conta contábil nos casos em que a regra da conta é fixa. 
 Centro custo: Selecionar o centro de custo nos casos em que a regra do centro de custo seja fixo. Histórico: Informar o histórico padrão para contabilização.
 Rateio do centro de custo: Selecionar o critério de rateio para o centro de custo. Esta informação será considerada somente se a (Regra do centro de custo) for (Rateio). 
@@ -45,3 +45,9 @@ Situação ativa: Identificar se a situação está ativa.
 
 
 Recebimento por transferencia bancaria 
+
+--------------------
+
+
+Campos Obrigatorios na criação de Regras 
+
